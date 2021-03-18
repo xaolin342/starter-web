@@ -28,4 +28,4 @@ Please fork this repository and then issue Pull Requests forkreview.
 
 ##Copyright
 
-2021 Git.Training.
+2021 Git.Training.All rights reserved
